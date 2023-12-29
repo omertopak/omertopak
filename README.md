@@ -4,14 +4,24 @@
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
-| 
+<!-- 
 <p align="left">Hello World, I am Omer.</p>
 <p align="left">I am a Full Stack Developer.</p>
 <p align="left">Programming is my hobby, passion, profession, ability, and everything to me.</p>
-| 
- <img align="center"  width="170px" alt="GIF" src="images/1.gif" />
-| 
+ <img align="center"  width="170px" alt="GIF" src="images/1.gif" /> -->
 
+<p>
+  <img src="images/1.gif" width="40" />
+  Hello World, I am Omer.
+</p>
+<p>I am a Full Stack Developer.</p>
+<p>
+  Programming is my hobby, passion, profession, ability, and everything to me.
+</p>
+
+<br />
+<br />
+<br />
 
 
 ## - Languages and Tools...
