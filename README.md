@@ -11,16 +11,16 @@
 
 <p>
   Hello World, I am Omer.
-  <img align="right" src="images/1.gif" width="150px" style="margin-right: 50px;"/>
+  <img align="right" src="images/1.gif" width="180px" />
 </p>
+<br />
 <p>I am a Full Stack Developer.</p>
+<br />
 <p>
   Programming is my hobby, passion, profession, ability, and everything to me.
 </p>
+<br />
 
-<br />
-<br />
-<br />
 
 
 ## - Languages and Tools...
