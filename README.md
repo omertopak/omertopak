@@ -12,7 +12,7 @@
 
 <p>
   Hello World, I am Omer.
-  <img src="images/1.gif" width="30" />
+  <img align="right" src="images/1.gif" width="30" />
 </p>
 <p>I am a Full Stack Developer.</p>
 <p>
