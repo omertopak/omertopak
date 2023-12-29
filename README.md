@@ -77,7 +77,7 @@
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="svg/dev/tools/postman.svg" alt="postman" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/postman2.svg" alt="postman" style="vertical-align:top; margin:6px 4px">
   </a> 
 
   ## Social & Professional 
