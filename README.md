@@ -3,21 +3,10 @@
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
-<!-- <p>
-  Hello World, I am Omer.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Train+One&size=18&pause=&color=2737A4&background=FFDDB500&random=false&width=435&lines=Hello+WORLD!" alt="Typing SVG" /></a>
+<p>
+  I am Omer.
   <img align="right" src="images/1.gif" width="180px" />
-</p>
-<br />
-<p>I am a Full Stack Developer.</p>
-<br />
-<p>
-  Programming is my hobby, passion, profession, ability, and everything to me.
-</p>
-<br /> -->
-
-  <img align="center" src="images/1.gif" width="180px" style="border-radius:50%"/>
-<p>
-  Hello World, I am Omer.
 </p>
 <br />
 <p>I am a Full Stack Developer.</p>
@@ -34,7 +23,6 @@
 ### Frameworks 
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <a href="#">
     <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -94,6 +82,7 @@
 
   ## Social & Professional 
   <p align="center">
+  <a href="mailto:omertopak1@gmail.com”">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="https://www.linkedin.com/in/%C3%B6mer-topak-72603a16a/">
