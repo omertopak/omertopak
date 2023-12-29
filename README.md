@@ -11,8 +11,8 @@
  <img align="center"  width="170px" alt="GIF" src="images/1.gif" /> -->
 
 <p>
-  <img src="images/1.gif" width="40" />
   Hello World, I am Omer.
+  <img src="images/1.gif" width="30" />
 </p>
 <p>I am a Full Stack Developer.</p>
 <p>
