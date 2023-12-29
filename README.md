@@ -1,17 +1,15 @@
 # Programmer Omer
 
-<img align="right" width="25%" src="giphy.mp4" />
 
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
-<p>
-  Hello World, I am Omer.
-</p>
-<p>I am a Full Stack Developer.</p>
-<p>
-  Programming is my hobby, passion, profession, ability, and everything to me.
-</p>
-  <img src="images/1.gif" width="30" />
+<br />
+ <img align="right" height="270px" width="450px" alt="GIF" src="images/1.gif" />
+
+<p align="center">Hello World, I am Omer.</p>
+<p align="center">I am a Full Stack Developer.</p>
+<p align="center">Programming is my hobby, passion, profession, ability, and everything to me.</p>
+ 
 
 ## - Languages and Tools...
 
