@@ -3,30 +3,16 @@
 
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
-<!-- <br />
-<div tyle="display: flex;">
-<div>
+<br />
+| 
 <p align="left">Hello World, I am Omer.</p>
 <p align="left">I am a Full Stack Developer.</p>
 <p align="left">Programming is my hobby, passion, profession, ability, and everything to me.</p>
-</div>
-<div>
+| 
  <img align="center"  width="170px" alt="GIF" src="images/1.gif" />
-</div>
- </div> -->
+| 
 
- <table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><p align="left">Hello World, I am Omer.</p></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><p align="left">I am a Full Stack Developer.</p></td>
-    <td valign="top"><p align="left">Programming is my hobby, passion, profession, ability, and everything to me.</p></td>
-  </tr>
-  <tr style="padding: 0">
-   <img align="center"  width="170px" alt="GIF" src="images/1.gif" />
-  </tr>
-</table>
+
 
 ## - Languages and Tools...
 
