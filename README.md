@@ -4,7 +4,7 @@
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
- <img align="right"  width="50px" alt="GIF" src="images/1.gif" />
+ <img align="right"  width="170px" alt="GIF" src="images/1.gif" />
 
 <p align="left">Hello World, I am Omer.</p>
 <p align="left">I am a Full Stack Developer.</p>
