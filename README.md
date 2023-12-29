@@ -1,5 +1,7 @@
 # Programmer Omer
+
 <p align="right">
+
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
