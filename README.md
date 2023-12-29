@@ -11,7 +11,7 @@
 
 <p>
   Hello World, I am Omer.
-  <img align="right" src="images/1.gif" width="150px" />
+  <img align="right" src="images/1.gif" width="150px" margin-right="30px"/>
 </p>
 <p>I am a Full Stack Developer.</p>
 <p>
