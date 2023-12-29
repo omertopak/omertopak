@@ -1,6 +1,5 @@
 # Programmer Omer
 
-
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
@@ -12,7 +11,7 @@
 
 <p>
   Hello World, I am Omer.
-  <img align="right" src="images/1.gif" width="30" />
+  <img align="right" src="images/1.gif" width="150px" />
 </p>
 <p>I am a Full Stack Developer.</p>
 <p>
