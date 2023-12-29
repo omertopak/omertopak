@@ -2,7 +2,7 @@
 
 <img align="right" width="25%" src="images/hackerman.gif" />
 
-![d](https://visitor-badge.laobi.icu/badge?page_id=programmergaurav)
+![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <p>
   <img src="images/wave.gif" width="30" />
@@ -13,8 +13,7 @@
   Programming is my hobby, passion, profession, ability, and everything to me.
 </p>
 
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-
+<video alt="Nft Coding GIF" src="./giphy.mp4" poster="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy_s.gif?cid=ecf05e473c7otyaya9bzzwifx4q1abaiuyyk95isrjvx0cw6&amp;ep=v1_gifs_search&amp;rid=giphy_s.gif&amp;ct=g" autoplay="" loop="" playsinline="" style="width: 500px; height: 500px; left: 0px; top: 0px;"></video>
 ## - Languages and Tools...
 
 ### Frameworks 
