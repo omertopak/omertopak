@@ -3,15 +3,21 @@
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
-<!-- 
-<p align="left">Hello World, I am Omer.</p>
-<p align="left">I am a Full Stack Developer.</p>
-<p align="left">Programming is my hobby, passion, profession, ability, and everything to me.</p>
- <img align="center"  width="170px" alt="GIF" src="images/1.gif" /> -->
-
-<p>
+<!-- <p>
   Hello World, I am Omer.
   <img align="right" src="images/1.gif" width="180px" />
+</p>
+<br />
+<p>I am a Full Stack Developer.</p>
+<br />
+<p>
+  Programming is my hobby, passion, profession, ability, and everything to me.
+</p>
+<br /> -->
+
+  <img align="center" src="images/1.gif" width="180px" style="border-radius:50%"/>
+<p>
+  Hello World, I am Omer.
 </p>
 <br />
 <p>I am a Full Stack Developer.</p>
@@ -88,7 +94,6 @@
 
   ## Social & Professional 
   <p align="center">
-   <a href="<a href=mailto:omertopak1@gmail.com?subject=SweetWords&body=Please send me a copy of your new program!">Email Me</a>">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="https://www.linkedin.com/in/%C3%B6mer-topak-72603a16a/">
