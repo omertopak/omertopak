@@ -4,7 +4,7 @@
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
-<div>
+<div tyle="display: flex;">
 <div>
 <p align="left">Hello World, I am Omer.</p>
 <p align="left">I am a Full Stack Developer.</p>
