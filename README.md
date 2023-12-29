@@ -1,10 +1,10 @@
 # Programmer Omer
-
+<p align="right">
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <br />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Train+One&size=18&pause=&color=2737A4&background=FFDDB500&random=false&width=435&lines=Hello+WORLD!" alt="Typing SVG" /></a>
 <p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Train+One&size=18&pause=&color=2737A4&background=FFDDB500&random=false&width=435&lines=Hello+WORLD!" alt="Typing SVG" /></a>
   I am Omer.
   <img align="right" src="images/1.gif" width="180px" />
 </p>
