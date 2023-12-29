@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
@@ -76,9 +76,9 @@
   <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="#">
+  <!-- <a href="#">
     <img src="svg/dev/tools/postman2.svg" alt="postman" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>  -->
 
   ## Social & Professional 
   <p align="center">
