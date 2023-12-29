@@ -5,15 +5,14 @@
 ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
 
 <p>
-  <img src="images/wave.gif" width="30" />
-  Hello World, I am Gaurav.
+  Hello World, I am Omer.
 </p>
 <p>I am a Full Stack Developer.</p>
 <p>
   Programming is my hobby, passion, profession, ability, and everything to me.
 </p>
+  <img src="images/1.gif" width="30" />
 
-<video alt="Nft Coding GIF" src="./giphy.mp4" poster="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy_s.gif?cid=ecf05e473c7otyaya9bzzwifx4q1abaiuyyk95isrjvx0cw6&amp;ep=v1_gifs_search&amp;rid=giphy_s.gif&amp;ct=g" autoplay="" loop="" playsinline="" style="width: 500px; height: 500px; left: 0px; top: 0px;"></video>
 ## - Languages and Tools...
 
 ### Frameworks 
