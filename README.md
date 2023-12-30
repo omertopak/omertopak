@@ -1,4 +1,4 @@
-# Programmer Omer
+
 <p align="right">
   <a href="mailto:omertopak1@gmail.com”">
     <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
@@ -9,6 +9,8 @@
 
 <br />
 <br />
+
+# Programmer Omer
 
 <p>
   Hello World,
