@@ -19,10 +19,12 @@
  Check out my GitHub for projects showcasing React.js, Node.js, and MongoDB. From interactive frontends to backends, I love exploring the full stack of web development.
 </p>
 <br />
+<br />
+<br />
 
 
 
-## - Languages and Tools...
+## 
 
   <p align="center">
    <a href="#">
@@ -38,7 +40,8 @@
    <a href="#">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>  
-
+<br /><br />
+## 
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
@@ -79,8 +82,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
+  <br /><br />
+  ## 
   
-  ## Social & Professional 
   <p align="center">
   <a href="mailto:omertopak1@gmail.com”">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
