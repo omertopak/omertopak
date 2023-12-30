@@ -7,7 +7,7 @@
     <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a> 
 <br />
-<br />
+
 
 ##
 
@@ -21,9 +21,6 @@
  Check out my GitHub for projects showcasing React.js, Node.js, and MongoDB. From interactive frontends to backends, I love exploring the full stack of web development.
 </p>
 <br />
-<br />
-<br />
-
 
 
 ## 
@@ -42,7 +39,7 @@
    <a href="#">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>  
-<br /><br />
+<br />
 
 ## 
 
@@ -86,7 +83,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <br /><br />
+  <br />
 
   ## 
   
