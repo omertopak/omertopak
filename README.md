@@ -15,7 +15,7 @@
   Hello World,
   <img align="right" src="images/1.gif" width="180px" />
 </p>
-<p>I'm a passionate MERN stack developer focused on crafting seamless user experiences.</p>
+<p>I'm a passionate full stack developer focused on crafting seamless user experiences.</p>
 
 <p>
  Check out my GitHub for projects showcasing React.js, Node.js, and MongoDB. From interactive frontends to backends, I love exploring the full stack of web development.
