@@ -88,12 +88,6 @@
   ## 
   
   <p align="center">
-  <a href="mailto:omertopak1@gmail.com”">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="https://www.linkedin.com/in/%C3%B6mer-topak-72603a16a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a> 
   <a href="#">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" style="vertical-align:top; margin:6px 4px">
   </a>  
