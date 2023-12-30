@@ -1,8 +1,6 @@
 # Programmer Omer
 <p>
 
-  ![d](https://visitor-badge.laobi.icu/badge?page_id=omertopak)
-
   <a href="mailto:omertopak1@gmail.com”">
     <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
