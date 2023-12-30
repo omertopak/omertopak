@@ -8,9 +8,6 @@
   </a> 
 
 <br />
-<br />
-
-# Programmer Omer
 
 <p>
   Hello World,
