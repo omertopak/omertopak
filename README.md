@@ -1,5 +1,8 @@
 
 <p align="right">
+   <a href="https://omertopak.netlify.app">
+    <img align="right" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
   <a href="mailto:omertopak1@gmail.com”">
     <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
