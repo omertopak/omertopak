@@ -21,7 +21,11 @@
  Check out my GitHub for projects showcasing React.js, Node.js, and MongoDB. From interactive frontends to backends, I love exploring the full stack of web development.
 </p>
 <br />
-
+ <p align="left">
+   <a href="https://omertopak.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
 
 ## 
 
