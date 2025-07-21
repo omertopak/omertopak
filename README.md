@@ -47,6 +47,15 @@
 ## 
 
 <p align="center">
+   <a href="#">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  <a href="#">
+    <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+  </a> 
   <a href="#">
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -59,9 +68,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" style="vertical-align:top; margin:6px 4px">
   </a> 
-   <a href="#">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>   
    <a href="#">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px">
   </a>   
